@@ -1,0 +1,10 @@
+# dotenv file
+.env
+.ibl.env
+
+# python venv
+venv
+
+__pycache__
+iframe_figures
+.ipynb_checkpoints
